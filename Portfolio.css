@@ -1,0 +1,77 @@
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+nav {
+    background-color: black;
+    padding: 5px;
+    text-align: center;
+
+}
+
+.logo {
+    color: aliceblue;
+    font-size: 40px;
+}
+
+.heading {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    width: 95%;
+    margin-top: 10%;
+    padding-left: 2%;
+}
+
+h1 {
+
+    font-size: 50px;
+}
+
+p {
+    font-size: 30px;
+    padding-bottom: 50px;
+}
+
+a {
+    color: black;
+    background-color: rgb(172, 13, 13);
+    padding: 2% 5%; 
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-left: 30%;
+    margin-top: 50%;
+    
+}
+
+.box1 {
+    
+    padding-right: 12%;
+    padding-left: 2%;
+    margin-top: -200px;
+
+}
+
+.pinkbox {
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding: 50px 0px;  
+    margin-top: 40px;
+}
+
+.covers {
+    margin-left: 7.5%;
+}
+
+.textbox {
+    padding-left: 18%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 1.75rem;
+}
